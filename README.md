@@ -58,8 +58,8 @@
 ### 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=husseinzhere&show_icons=true&theme=tokyonight&hide_border=true" height="166" />
+  <img src="https://github-readme-stats.vercel.app/api?username=husseinZhere&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="166" alt="Hussein's GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=husseinzhere&layout=compact&theme=tokyonight&hide_border=true" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=husseinZhere&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="166" alt="Hussein's Top Languages" />
 </p>
 
