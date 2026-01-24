@@ -57,9 +57,7 @@
 ---
 
 ### 📊 Top Languages
-<p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=husseinZhere&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"
-    alt="Hussein's Top Languages"
-  />
-</p>
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=husseinZhere&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=0"
+  alt="Hussein's Top Languages"
+/>
